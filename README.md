@@ -1,2 +1,3 @@
-# Ai
-OpenWhisper
+# AI
+Audio-Studio
+_
